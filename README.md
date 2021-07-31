@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java , Node.js , React**
 
-- 📫 How to reach me **itssavage648@gmail.com**
+- 📫 How to reach me **itssavage648@gmail.com / ItsSavage#0060**
 
 
 <h3 align="left">Languages and Tools:</h3>
